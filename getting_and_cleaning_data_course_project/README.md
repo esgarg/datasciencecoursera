@@ -1,7 +1,8 @@
 ## Getting and Cleaning Data: Course Project
 
-**Assumption 1:** Data is downloaded and available in "UCI HAR Dataset" folder.
-**Assumption 2:** Library reshape2 is available.
+**Assumption 1:** Data is downloaded and available in `UCI HAR Dataset` folder.
+
+**Assumption 2:** Library `reshape2` is available.
 
 The script does the following: 
 
